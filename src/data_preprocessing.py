@@ -118,7 +118,3 @@ if __name__=="__main__":
 
     processor = DataProcessing(input_path, output_path)
     processor.run()
-
-        
-
-        
